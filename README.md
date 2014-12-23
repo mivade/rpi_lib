@@ -1,14 +1,15 @@
 # Raspberry Pi KiCad Library #
 
-This repository contains [KiCad][] libraries for representing the Raspberry
-Pi GPIO pins.
+This repository contains [KiCad][] libraries for representing the
+[Raspberry Pi][] GPIO pins.
 
 [KiCad]: http://www.kicad-pcb.org
+[Raspberry Pi]: http://www.raspberrypi.org/
 
 ## What's included ##
 
 For now, this only contains the Pi B+ GPIO pinout. Eventually I plan to get
-around to adding the poinouts for other versions as well.
+around to adding the pinouts for other versions as well.
 
 ## License ##
 
